@@ -12,16 +12,15 @@ p{
   font-family: times;
 }
 body{
-  color:black;
+  color:Black;
 }
 
 h2{
-
   font-weight:bold;
   font-style:italic;
   font-size: 25px;
   font-family: times;
 }
 html{
-background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXc77gKeuwADT6QTlhC0av3KfQaqD8RVzmcIHMHWBTQTtCI9W&s");
+background-color: aqua;
 }
