@@ -32,27 +32,27 @@ h2{
 }
 
 .SpongeBob{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmK3Fq59zg8tEdoXDNMaibVgYlpafbTO223XZCqaR72rm-urSl&s");
+  background-color: yellow;
 }
 
 .Sandy{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFO8n5Q9JedY2PqIM4mqGJy2p0goCIRnoZYnT4uZG9ADB8xIG4&s");
+  background-color: saddleBrown;
 }
 
 .Squidward{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7i-FX5uH1eTJRFWRn7MueCmFk7yIwrObCv7ClDi9iWqN81__PbA&s");
+  background-color: cyan;
 }
 
 .Plankton{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpDMHn1eujd6SKDVPFtff1JlzI22JWikwcazkL8z84LIQ2U55Hfw&s");
+  background-color: green;
 }
 
 .Patrick{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7TKN5BsMHmvZoxX4kgzQ25dXfndTGMEHb66rsehxKkWAcUQuh&s");
+  background-color: pink;
 }
 
 .MrKrabs{
-  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqMgL00osBFdwjg_0msHRozj6j-HbK1nV-UpasVQD5gu4ddhEm8A&s");
+  background-color: brown;
 }
 
 img{
