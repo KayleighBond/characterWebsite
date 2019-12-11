@@ -3,6 +3,10 @@ h1{
   font-size: 40px;
 }
 
+h1:hover{
+  color:blue;
+}
+
 ul{
   font-size:20px;
   border-color: Black;
@@ -29,6 +33,10 @@ h2{
   font-size: 30px;
   font-family: times;
   color: Black;
+}
+
+h2:hover{
+  color:blue;
 }
 
 .SpongeBob{
@@ -64,7 +72,7 @@ img{
 
 }
 
-nav{
+nav {
   font-size: 25px;
   text-align: center;
   font-weight: bold;
@@ -72,4 +80,8 @@ nav{
   border-width: medium;
   border-style: solid;
   background-color: white;
+}
+
+nav:hover{
+  color: blue;
 }
